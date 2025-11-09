@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Random Password Generator</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+    <div class="stars-bg"></div>
+    <div class="container">
+        <h1>🔐 Random Password Generator</h1>
+        <p class="tagline">Forge a password as strong as a supernova.</p>
+        <div class="password-box">
+            <span id="password-display">Click Generate</span>
+            <button id="copy-btn">📋</button>
+        </div>
+        <div class="controls">
+            <label>Password Length: <span id="length-value">12</span></label>
+            <input type="range" id="length-slider" min="6" max="24" value="12" />
+            <div class="checkboxes">
+                <label>
+                    <input type="checkbox" id="include-lower" checked>
+                    Lowercase (a-z)
+                </label>
+                <label>
+                    <input type="checkbox" id="include-upper">
+                    Uppercase (A-Z)
+                </label>
+                <label>
+                    <input type="checkbox" id="include-numbers">
+                    Numbers (0-9)
+                </label>
+                <label>
+                    <input type="checkbox" id="include-symbols">
+                    Symbols (!@#)
+                </label>
+            </div>
+        </div>
+        <button id="generate-btn" class="generate-btn">
+            Generate Password
+        </button>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
