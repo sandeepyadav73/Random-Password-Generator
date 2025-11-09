@@ -15,7 +15,8 @@ Welcome to the Random Password Generator, a sleek, space-themed web application 
 
 ## ✨ Preview
 
-*(**Note:** Replace this placeholder with a screenshot or GIF of your project!)*
+<img width="443" height="425" alt="image" src="https://github.com/user-attachments/assets/d5e3bbeb-3269-490f-bb4e-8abfcd67bcd5" />
+
 
 
 
@@ -23,7 +24,7 @@ Welcome to the Random Password Generator, a sleek, space-themed web application 
 
 Check out the live version of the project here:
 
-**[https://your-demo-link-here.com](https://your-demo-link-here.com)**
+**[https://your-demo-link-here.com]()**
 
 ## 📋 Features
 
