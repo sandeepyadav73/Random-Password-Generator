@@ -24,7 +24,7 @@ Welcome to the Random Password Generator, a sleek, space-themed web application 
 
 Check out the live version of the project here:
 
-**[https://your-demo-link-here.com]()**
+**[https://sandeepyadav73.github.io/Random-Password-Generator/](https://sandeepyadav73.github.io/Random-Password-Generator/)**
 
 ## 📋 Features
 
@@ -58,11 +58,11 @@ To run this project locally, follow these simple steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/random-password-generator.git](https://github.com/your-username/random-password-generator.git)
+    git clone [https://github.com/sandeepyadav73/Random-Password-Generator.git](https://github.com/sandeepyadav73/Random-Password-Generator.git)
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd random-password-generator
+    cd Random-Password-Generator
     ```
 3.  **Open the application:**
     Simply open the `index.html` file in your favorite web browser. No build steps or dependencies are required.
